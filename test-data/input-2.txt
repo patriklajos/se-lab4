@@ -1,0 +1,10 @@
+#test2.txt
+# Teszt célja: Torpedó kilövés tesztelése a secondary (második) torpedóvetőből
+# Kezdeti állapot: 
+# - GT4500 űrhajó
+# - Primary torpedó üres (1. paraméter: 0)
+# - Primary szög 0 fok (2. paraméter: 0)
+# - Secondary torpedó töltve (3. paraméter: 1)
+# - Secondary szög 0 fok (4. paraméter: 0)
+GT4500,0,0,1,0
+TORPEDO,SINGLE

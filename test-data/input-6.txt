@@ -1,0 +1,10 @@
+# input-6.txt
+# Teszt célja: ALL mód tesztelése amikor mindkét torpedóvető üres
+# Kezdeti állapot: 
+# - GT4500 űrhajó
+# - Primary torpedó üres (1. paraméter: 0)
+# - Primary szög 0 fok (2. paraméter: 0)
+# - Secondary torpedó üres (3. paraméter: 0)
+# - Secondary szög 0 fok (4. paraméter: 0)
+GT4500,0,0,0,0
+TORPEDO,ALL

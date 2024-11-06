@@ -1,0 +1,11 @@
+# input-3.txt
+# Teszt célja: Egymás utáni torpedó kilövések tesztelése, amikor mindkét torpedóvető töltve van
+# Kezdeti állapot: 
+# - GT4500 űrhajó
+# - Primary torpedó töltve (1. paraméter: 1)
+# - Primary szög 0 fok (2. paraméter: 0)
+# - Secondary torpedó töltve (3. paraméter: 1) 
+# - Secondary szög 0 fok (4. paraméter: 0)
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

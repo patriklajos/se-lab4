@@ -1,0 +1,4 @@
+# output-x.txt
+# Elvárt eredmény: Sikeres inicializálás és sikeres torpedó kilövés a secondary torpedóvetőből
+SUCCESS  # GT4500 inicializálás sikeres
+SUCCESS  # Torpedó kilövés sikeres a secondary torpedóvetőből
