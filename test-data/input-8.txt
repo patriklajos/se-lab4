@@ -1,0 +1,11 @@
+# input-8.txt
+# Teszt célja: Többszörös kilövés tesztelése amikor a primary torpedóvetőben 2 torpedó van
+# Kezdeti állapot: 
+# - GT4500 űrhajó
+# - Primary torpedóban 2 torpedó van (1. paraméter: 2)
+# - Primary szög 0 fok (2. paraméter: 0)
+# - Secondary torpedó üres (3. paraméter: 0)
+# - Secondary szög 0 fok (4. paraméter: 0)
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

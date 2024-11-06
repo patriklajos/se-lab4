@@ -1,0 +1,4 @@
+# output-7.txt
+# Elvárt eredmény: Sikeres inicializálás és sikeres ALL módú kilövés (csak primary torpedó kerül kilövésre)
+SUCCESS  # GT4500 inicializálás sikeres
+SUCCESS  # ALL módú kilövés sikeres (primary torpedó kilőve)

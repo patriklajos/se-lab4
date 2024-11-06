@@ -1,0 +1,5 @@
+# input-1.txt
+# Teszt célja: Alap torpedó kilövés tesztelése az első pozícióból
+# Kezdeti állapot: GT4500 űrhajó, primary és secondary torpedók töltve
+GT4500,1,0,0,0
+TORPEDO,SINGLE

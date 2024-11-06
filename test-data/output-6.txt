@@ -1,0 +1,4 @@
+# output-6.txt
+# Elvárt eredmény: Sikeres inicializálás, de sikertelen ALL módú kilövés mivel egyik vető sincs töltve
+SUCCESS  # GT4500 inicializálás sikeres
+FAIL    # ALL módú kilövés sikertelen (nincs töltve egyik torpedóvető sem)
